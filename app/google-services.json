@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "443076552833",
+    "project_id": "petinder-f1502",
+    "storage_bucket": "petinder-f1502.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443076552833:android:a53595b3f8256cc4464580",
+        "android_client_info": {
+          "package_name": "com.example.petinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "443076552833-t6nbptng7ppqfc9426b0hqabh94sf30v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1vkqeZi69-fkf737L2UFRxOdcQeMnRGI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "443076552833-t6nbptng7ppqfc9426b0hqabh94sf30v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">IFtutor</string>
+    <string name="txt_title_login">Login</string>
+    <string name="msg_login">Usuário e/ou senha errados!</string>
+    <string name="title_dialog_resetar_senha">Resetar senha.</string>
+    <string name="btn_cancel_resetar_senha">Cancelar</string>
+    <string name="msg_resetar_email">Verifique o e-mail para resetar a senha.</string>
+    <string name="btn_ok_resetar_senha">Enviar</string>
+</resources>
